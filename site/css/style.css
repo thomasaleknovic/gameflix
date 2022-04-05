@@ -53,7 +53,7 @@ body {
 /*--------Featured---------*/
 
 #featured-container {
-    background-image: url(/site/images/featured/cod_warzone_featured.jpg);
+    background-image: url(/images/featured/cod_warzone_featured.jpg);
     height: 600px;
     
 }
@@ -61,7 +61,7 @@ body {
 #featured-info {
 
 
-    margin: 150px 0 0 50px;
+    margin: 200px 0 0 50px;
     color: #ffffff;
     text-shadow: 0px 0px 10px rgba(0,0,0,.7);
     
